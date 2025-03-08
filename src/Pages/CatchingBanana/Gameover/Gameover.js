@@ -20,7 +20,7 @@ export const printGameOver = () => {
 
   const highScoreButt = document.createElement('button'); //boton para enseñar los highscores
   highScoreButt.innerHTML =
-    "<img alt='highscore' src='./assets/CatchingBanana/trofeo.png'/> ";
+    "<img alt='highscore' src='https://res.cloudinary.com/dr2vohk2z/image/upload/v1741453154/GamesHub/CatchingBanana/trofeo_xgqqcw.png'/> ";
   const reloadButt = reloadGame('CatchingBanana'); //boton para jugar de nuevo
 
   divButtons.className = 'buttGameOver';

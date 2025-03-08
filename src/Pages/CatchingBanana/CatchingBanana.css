@@ -3,7 +3,7 @@
   height: 360px;
   position: relative;
   border-radius: var(--gh-border-radius);
-  background-image: url('./assets/CatchingBanana/forestBG.jpg');
+  background-image: url('https://res.cloudinary.com/dr2vohk2z/image/upload/v1741453167/GamesHub/CatchingBanana/forestBG_cppbn8.jpg');
   background-size: cover;
   margin: auto;
   padding: var(--gh-padding-s);

@@ -3,7 +3,8 @@
 export const printMonkey = () => {
   const divGame = document.querySelector('#catching');
   const imgMonkey = document.createElement('img');
-  imgMonkey.src = './assets/CatchingBanana/mono.png';
+  imgMonkey.src =
+    'https://res.cloudinary.com/dr2vohk2z/image/upload/v1741453150/GamesHub/CatchingBanana/mono_cor0k2.png';
   imgMonkey.alt = 'monkey character';
   imgMonkey.className = 'monkey';
 

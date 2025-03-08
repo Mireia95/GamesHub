@@ -2,7 +2,7 @@
 export const createPiezas = (listPiezas) => {
   for (let i = 1; i < 13; i++) {
     const imgPieza = document.createElement('img');
-    imgPieza.src = `./assets/Puzzle/${i}.png`;
+    imgPieza.src = `/public/assets/Puzzle/${i}.png`;
     imgPieza.className = 'pieza';
     listPiezas.push(imgPieza);
   }
