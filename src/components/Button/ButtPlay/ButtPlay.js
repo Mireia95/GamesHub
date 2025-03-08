@@ -2,7 +2,7 @@
 export const createButtonPlay = () => {
   const buttonPlay = document.createElement('button');
   buttonPlay.innerHTML =
-    '<img src="./public/assets/CatchingBanana/play.png" alt="play" />';
+    '<img src="./assets/CatchingBanana/play.png" alt="play" />';
 
   buttonPlay.className = 'play';
 

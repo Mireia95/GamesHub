@@ -3,7 +3,7 @@
 export const printMonkey = () => {
   const divGame = document.querySelector('#catching');
   const imgMonkey = document.createElement('img');
-  imgMonkey.src = './public/assets/CatchingBanana/mono.png';
+  imgMonkey.src = './assets/CatchingBanana/mono.png';
   imgMonkey.alt = 'monkey character';
   imgMonkey.className = 'monkey';
 

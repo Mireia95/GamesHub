@@ -3,7 +3,7 @@
   height: 360px;
   position: relative;
   border-radius: var(--gh-border-radius);
-  background-image: url('./public/assets/CatchingBanana/forestBG.jpg');
+  background-image: url('./assets/CatchingBanana/forestBG.jpg');
   background-size: cover;
   margin: auto;
   padding: var(--gh-padding-s);

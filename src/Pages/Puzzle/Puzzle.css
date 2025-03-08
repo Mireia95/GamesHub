@@ -1,7 +1,7 @@
 #puzzle {
   width: 600px;
   height: 450px;
-  background-image: url('./public/assets/Puzzle/puzzleAll.png');
+  background-image: url('https://res.cloudinary.com/dr2vohk2z/image/upload/v1741453163/GamesHub/Puzzle/puzzleAll_ewdkoj.png');
   background-size: cover;
   margin: auto;
   display: grid;

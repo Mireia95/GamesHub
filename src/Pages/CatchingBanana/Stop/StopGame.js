@@ -5,7 +5,7 @@ import { initCatch } from '../CatchingBanana';
 export const createButtonStop = () => {
   const buttonStop = document.createElement('button');
   buttonStop.innerHTML =
-    '<img src="./public/assets/CatchingBanana/stop.png" alt="stop" />';
+    '<img src="./assets/CatchingBanana/stop.png" alt="stop" />';
   buttonStop.className = 'stop';
 
   buttonStop.addEventListener('click', () => {

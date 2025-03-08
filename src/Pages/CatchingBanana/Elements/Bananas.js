@@ -6,7 +6,7 @@ import { assignPosX, posXrandom } from './posXrandom';
 
 const createBanana = () => {
   const banana = document.createElement('img');
-  banana.src = './public/assets/CatchingBanana/platanos.png';
+  banana.src = './assets/CatchingBanana/platanos.png';
   banana.className = 'element';
 
   //*posicion inicial

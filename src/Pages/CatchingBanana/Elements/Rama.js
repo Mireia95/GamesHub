@@ -4,7 +4,7 @@ import { assignPosX, posXrandom } from './posXrandom';
 
 const createRama = () => {
   const rama = document.createElement('img');
-  rama.src = './public/assets/CatchingBanana/rama.png';
+  rama.src = './assets/CatchingBanana/rama.png';
   rama.className = 'element';
 
   //*posicion inicial

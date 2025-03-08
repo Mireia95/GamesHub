@@ -1,7 +1,7 @@
 export const backCatching = () => {
   const buttonBack = document.createElement('button');
   buttonBack.innerHTML =
-    "<img src='./public/assets/CatchingBanana/atras.png' alt'back' />";
+    "<img src='https://res.cloudinary.com/dr2vohk2z/image/upload/v1741453148/GamesHub/CatchingBanana/atras_hg2vev.png' alt'back' />";
   return buttonBack;
 };
 
@@ -9,6 +9,6 @@ export const backCatching = () => {
 export const backPuzzle = () => {
   const buttonBack = document.createElement('button');
   buttonBack.innerHTML =
-    "<img src='./public/assets/CatchingBanana/atras.png' alt'back' />";
+    "<img src='https://res.cloudinary.com/dr2vohk2z/image/upload/v1741453148/GamesHub/CatchingBanana/atras_hg2vev.png' alt'back' />";
   return buttonBack;
 };

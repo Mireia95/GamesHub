@@ -3,7 +3,7 @@ export const printLifes = (divElements) => {
   divLifes.className = 'lifes';
   for (let i = 1; i < 4; i++) {
     const life = document.createElement('img');
-    life.src = './public/assets/CatchingBanana/life.png';
+    life.src = './assets/CatchingBanana/life.png';
     life.className = 'life';
     divLifes.append(life);
   }

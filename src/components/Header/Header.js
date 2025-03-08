@@ -9,7 +9,8 @@ export const printHeader = () => {
   const imgController = document.createElement('img');
 
   h1.innerText = 'Bienvenido a Games Hub';
-  imgController.src = './public/assets/controller.png';
+  imgController.src =
+    'https://res.cloudinary.com/dr2vohk2z/image/upload/v1741453164/GamesHub/controller_uo935f.png';
   imgController.alt = 'controller';
 
   divTitle.className = 'title';
