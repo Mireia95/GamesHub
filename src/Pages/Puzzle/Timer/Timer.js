@@ -1,4 +1,4 @@
-import './Timer.css';
+import './timer.css';
 
 export const createTimer = () => {
   const main = document.querySelector('main');
